@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\bin\Debug\netcoreapp3.0\GuessTheNumberGame.exe
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\bin\Debug\netcoreapp3.0\GuessTheNumberGame.deps.json
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\bin\Debug\netcoreapp3.0\GuessTheNumberGame.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\bin\Debug\netcoreapp3.0\GuessTheNumberGame.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\bin\Debug\netcoreapp3.0\GuessTheNumberGame.dll
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\bin\Debug\netcoreapp3.0\GuessTheNumberGame.pdb
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\obj\Debug\netcoreapp3.0\GuessTheNumberGame.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\obj\Debug\netcoreapp3.0\GuessTheNumberGame.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\obj\Debug\netcoreapp3.0\GuessTheNumberGame.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\obj\Debug\netcoreapp3.0\GuessTheNumberGame.dll
+C:\Users\Felix\Documents\C# Prodjects\GuessTheNumberGame\obj\Debug\netcoreapp3.0\GuessTheNumberGame.pdb
